@@ -9,7 +9,7 @@ Check me out 👇
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Four card feature section]()               |   [Live Demo](https://frontendashimi.netlify.app/four-card-feature-section-master/)          |
-| 02  | [Single Price grid component]()                |    [Live Demo]()          |
+| 02  | [Single Price grid component]()                |    [Live Demo](https://frontendashimi.netlify.app/base-apparel-coming-soon-master)          |
 | 03  | [Coming soon page]() |    [Live Demo]()          |
 | 04  | [Sign up with form validation]()                   | [Live Demo]()          |
 .
