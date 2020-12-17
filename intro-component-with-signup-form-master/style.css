@@ -122,3 +122,54 @@ html{
     color: hsl(0, 100%, 74%);
     font-weight: 600;
 }
+.error-icon{
+    position: absolute;
+    top: 28%;
+    right: 0;
+}
+.error-text{
+    text-align: right;
+    font-size: .8rem;
+    font-style: italic;
+    color: hsl(0, 100%, 74%);
+    font-weight: 400;
+}
+@media only screen and (min-width: 1000px){
+    #intro{
+        background-image: url(images/bg-intro-desktop.png);
+    }
+    .container{
+        flex-direction: row;
+    }
+    .left-col{
+        text-align: left;
+        padding-right: 50px;
+    }
+    .left-col h1{
+        font-size: 3rem;
+        line-height: 3.5rem;
+    }
+    .left-col p{
+        font-size: 1.1rem;
+    }
+    .right-col{
+        max-width: 500px;
+    }
+    .right-col .top-box p{
+        font-size: 1.1rem;
+    }
+    .right-col .top-box{
+        padding: 20px;
+    }
+    .right-col .form-container{
+        padding: 40px;
+    }
+    .right-col input,
+    .right-col input::placeholder{
+        font-size: 1.05rem;
+    }
+    .right-col .form-footer{
+        margin-top: 20px;
+        font-size: .7rem;
+    }
+}
