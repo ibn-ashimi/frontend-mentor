@@ -13,7 +13,7 @@ Check me out 👇
 | 03  | [Single Price Grid Component]() |    [Live Demo](https://frontendashimi.netlify.app/single-price-grid-component-master)          |
 | 04  | [Intro Component With Signup Form]()                   | [Live Demo](https://frontendashimi.netlify.app/intro-component-with-signup-form-master)          |
 | 05  | [Coding Bootcamp Testimonials Slider]()                   | [Live Demo](https://frontendashimi.netlify.app/coding-bootcamp-testimonials-slider-master)          |
-.
+| 06  | [Ping Coming Soon Page]()                   | [Live Demo](https://frontendashimi.netlify.app/ping-coming-soon-page-master)          |
 .
 .
 | 40  | ensure to visit this repo again   |
